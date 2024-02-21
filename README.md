@@ -1,7 +1,5 @@
-# Tic-Tac--Toe-Game
-Tic - Tac - Toe Game
-This project is the part of the Web Development tutorial.
-This is a simple Tic Tac Toe game built using JavaScript. The game can be played in a web browser and is designed to be simple and intuitive.
+# overview
+Tic Tac Toe is a two-player game where each player takes turns marking a square on a 3x3 grid. The objective is to be the first to form a horizontal, vertical, or diagonal line with your own symbol. This repository provides a console-based implementation of the game, allowing you to play against a friend.
 
 # Demo link
  https://apurv56kum.github.io/Tic-Tac--Toe-Game/
