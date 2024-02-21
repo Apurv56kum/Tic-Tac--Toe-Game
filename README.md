@@ -23,3 +23,12 @@ The Tic Tac Toe game was built using the following technologies:
 - HTML
 - CSS
 - JavaScript
+## Geeting Started
+
+ To get started with this project, follow these steps:
+
+Clone the repository: git clone https://github.com/Apurv56kum/Tic-Tac--Toe-Game.git Open the project in your preferred code editor.
+
+Launch the index.html file in a web browser to view the Netflix home page.
+
+Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
